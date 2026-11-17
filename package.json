@@ -1,0 +1,11 @@
+{
+  "name": "rspack-real-content-hash-digits",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "devDependencies": {
+    "@rspack/core": "2.3.1"
+  }
+}
